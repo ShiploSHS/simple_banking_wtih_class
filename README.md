@@ -1,4 +1,4 @@
-#Simple Banking App 🏦
+#Simple_Banking_App
 This is a Python-based simple banking application that allows users to manage a bank account. Users can create an account, check their balance, deposit money, withdraw money, and exit the application through a menu-driven interface.
 
 ##Features
